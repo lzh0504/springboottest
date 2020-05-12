@@ -8,6 +8,7 @@ public class SpringbootjpathyApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringbootjpathyApplication.class, args);
+        System.out.println("我说测试1.0版本");
     }
 
 }
